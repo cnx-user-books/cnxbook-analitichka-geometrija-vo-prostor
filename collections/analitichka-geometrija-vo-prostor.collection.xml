@@ -1,0 +1,15 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10691</md:content-id>
+    <md:title>АНАЛИТИЧКА ГЕОМЕТРИЈА ВО ПРОСТОР</md:title>
+    <md:language>mk</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>51f16e95-2278-4f8b-ac6e-e4b9c089006f</md:uuid>
+<md:slug>analitichka-geometrija-vo-prostor</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m20867"/>
+    <col:module document="m20866"/>
+    <col:module document="m20883"/>
+  </col:content>
+</col:collection>
