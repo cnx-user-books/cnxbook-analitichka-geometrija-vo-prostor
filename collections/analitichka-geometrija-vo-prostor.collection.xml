@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk" authors="Liljana Stefanovska">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10691</md:content-id>
-    <md:title>АНАЛИТИЧКА ГЕОМЕТРИЈА ВО ПРОСТОР</md:title>
+    <md:title>&#x410;&#x41D;&#x410;&#x41B;&#x418;&#x422;&#x418;&#x427;&#x41A;&#x410; &#x413;&#x415;&#x41E;&#x41C;&#x415;&#x422;&#x420;&#x418;&#x408;&#x410; &#x412;&#x41E; &#x41F;&#x420;&#x41E;&#x421;&#x422;&#x41E;&#x420;</md:title>
     <md:language>mk</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>51f16e95-2278-4f8b-ac6e-e4b9c089006f</md:uuid>
-<md:slug>analitichka-geometrija-vo-prostor</md:slug>
-</metadata>
+    <md:slug>analitichka-geometrija-vo-prostor</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m20867"/>
     <col:module document="m20866"/>
